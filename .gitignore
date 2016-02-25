@@ -8,3 +8,8 @@
 hs_err_pid*
 
 target/
+
+.idea
+.project
+.classpah
+
